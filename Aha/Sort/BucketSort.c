@@ -9,6 +9,8 @@
 
 結論:
 每個桶就是標示每個數出現的次數
+
+作者: E.J.Issac , R.C.Singleton 
 */
 int main()
 {
